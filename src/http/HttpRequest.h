@@ -150,7 +150,7 @@ public:
     }
 
 private:
-    Method method_;         // 请求方法
+    Method method_;         // 请求方法:GET、POST
     Version version_;       // 协议版本号
     std::string path_;      // 请求路径
     std::string query_;     // 询问参数

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/src/mysql/test/MysqlPoolTest.cc" "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/src/mysql/test/CMakeFiles/MysqlPoolTest.dir/MysqlPoolTest.cc.o"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/src/mysql/test/MysqlPoolTest.cc" "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/src/mysql/test/CMakeFiles/MysqlPoolTest.dir/MysqlPoolTest.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -22,7 +22,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/CMakeFiles/tiny_network.dir/DependInfo.cmake"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/CMakeFiles/tiny_network.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/src/http/HttpContext.cc" "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/src/http/CMakeFiles/HttpServer.dir/HttpContext.cc.o"
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/src/http/HttpResponse.cc" "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/src/http/CMakeFiles/HttpServer.dir/HttpResponse.cc.o"
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/src/http/HttpServer.cc" "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/src/http/CMakeFiles/HttpServer.dir/HttpServer.cc.o"
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/src/http/main.cc" "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/src/http/CMakeFiles/HttpServer.dir/main.cc.o"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/src/http/HttpContext.cc" "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/src/http/CMakeFiles/HttpServer.dir/HttpContext.cc.o"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/src/http/HttpResponse.cc" "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/src/http/CMakeFiles/HttpServer.dir/HttpResponse.cc.o"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/src/http/HttpServer.cc" "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/src/http/CMakeFiles/HttpServer.dir/HttpServer.cc.o"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/src/http/main.cc" "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/src/http/CMakeFiles/HttpServer.dir/main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -25,7 +25,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/shang/code/C++/github-project/student-work-project/my-muduo/build/CMakeFiles/tiny_network.dir/DependInfo.cmake"
+  "/home/lianggui/Atinymuduo/A-Tiny-Network-Library/build/CMakeFiles/tiny_network.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

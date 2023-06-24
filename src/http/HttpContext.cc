@@ -8,7 +8,7 @@ bool HttpContext::processRequestLine(const char *begin, const char *end)
     const char *start = begin;
     const char *space = std::find(start, end, ' ');
 
-    // 不是最后一个空格，并且成功获取了method并设置到request_
+    // 存在空格，并且成功获取了method并设置到request_
     if (space != end && request_.setMethod(start, space))
     {
         // 跳过空格
